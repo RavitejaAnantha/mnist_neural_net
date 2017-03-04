@@ -2,7 +2,8 @@
 ## Neural Network in C/C++
 Simple neural network using MNIST dataset for training and testing: http://yann.lecun.com/exdb/mnist/
 
-Labels file just contains numbers from 0-9.
+Data set is labeled with labels file contains numbers from 0-9 for every image.
+
 Input is an image with 728(28x28) pixels for example:
 <img src="https://corpocrat.com/wp-content/uploads/2014/10/figure_1.png" width="250">
 
