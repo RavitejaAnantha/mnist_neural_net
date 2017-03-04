@@ -17,8 +17,10 @@ Start the main
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
 ## History
-TODO: Write history
+This is version 0.00001 :D
+
 ## Credits
 Thanks for valuable information from:
 https://www.youtube.com/watch?v=KkwX7FkLfug&index=8&list=PLXi5SoYyURgNs1cFYtEPK2kcIxv6AMRf5
