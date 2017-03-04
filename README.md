@@ -1,11 +1,10 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+
+## Neural Network in C/C++
 Simple neural network using MNIST dataset for training and testing: http://yann.lecun.com/exdb/mnist/
 
-Input is an image with 728(28x28) pixels for example:
-![alt tag](https://corpocrat.com/wp-content/uploads/2014/10/figure_1.png)
 Labels file just contains numbers from 0-9.
+Input is an image with 728(28x28) pixels for example:
+<img src="https://corpocrat.com/wp-content/uploads/2014/10/figure_1.png" width="250">
 
 ## Installation
 Please take a look at the paths of asset files (images and labels).
@@ -32,6 +31,3 @@ https://en.wikipedia.org/wiki/Activation_function
 
 ## License
 MIT license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
