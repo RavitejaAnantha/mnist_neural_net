@@ -11,6 +11,7 @@ struct Classfication {
     Classfication(float from, float to) {
         this->from = from;
         this->to = to;
+        this->count = 0;
     }
 
     float from;
